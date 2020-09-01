@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29e41d1e-67ce-4292-bab9-ac4ce55cc5da" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/dbox.exe" beforeDir="false" afterPath="$PROJECT_DIR$/dist/dbox.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/robomotion-dropbox-0.0.1.pspec" beforeDir="false" afterPath="$PROJECT_DIR$/dist/robomotion-dropbox-0.0.1.pspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodes/Connect.go" beforeDir="false" afterPath="$PROJECT_DIR$/nodes/Connect.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodes/Copy.go" beforeDir="false" afterPath="$PROJECT_DIR$/nodes/Copy.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodes/Create.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodes/Delete.go" beforeDir="false" afterPath="$PROJECT_DIR$/nodes/Delete.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodes/DisConnect.go" beforeDir="false" afterPath="$PROJECT_DIR$/nodes/DisConnect.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodes/Download.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodes/Move.go" beforeDir="false" afterPath="$PROJECT_DIR$/nodes/Move.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodes/Stat.go" beforeDir="false" afterPath="$PROJECT_DIR$/nodes/Stat.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodes/Upload.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nodes/common.go" beforeDir="false" afterPath="$PROJECT_DIR$/nodes/common.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robomotion-dropbox-0.0.1-windows-amd64.tgz" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1gg4bhUm2o5EQiDM6R98s33HWHF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29e41d1e-67ce-4292-bab9-ac4ce55cc5da" name="Default Changelist" comment="" />
+      <created>1598522974383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598522974383</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="125" y="177" key="new project wizard" timestamp="1598872474368">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="125" y="177" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1598872474368" />
+  </component>
+</project>

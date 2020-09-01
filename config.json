@@ -1,0 +1,41 @@
+{
+    "name": "Dropbox",
+    "namespace": "Robomotion.Dropbox",
+    "version": "0.0.1",
+    "category": 6,
+    "description": "Dropbox is a modern workspace designed to reduce busywork-so you can focus on the things that matter.",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dropbox_Icon.svg/1101px-Dropbox_Icon.svg.png",
+    "keywords": [
+        "dropbox"
+    ],
+    "language": "Go",
+    "platforms": [
+        "linux",
+        "windows",
+        "darwin"
+    ],
+    "author": {
+        "email": "support@robomotion.io",
+        "name": "Robomotion RPA"
+    },
+    "scripts": {
+        "windows": {
+            "build": [
+                "go build -o dist/dbox.exe"
+            ],
+            "run": "dbox.exe"
+        },
+        "linux": {
+            "build": [
+                "go build -o dist/dbox"
+            ],
+            "run": "dbox"
+        },
+        "darwin": {
+            "build": [
+                "go build -o dist/dbox"
+            ],
+            "run": "dbox"
+        }
+    }
+}
